@@ -15,7 +15,7 @@ Primeiro, organizei as pastas e criei as 5 tabelas no SQLite usando o DBeaver. D
 ---
 
 ### 2. Tratando os Dados com SQL
-Antes de mandar tudo pro Power BI, notei que que algumas células estavam sem valores atribuídos e consultei se os valores estavam listados como `NULL`, fiz umas correções na tabela de vendas e rodei alguns `JOIN`s pra testar se as tabelas estavam realmente conectadas.
+Antes de mandar tudo pro Power BI, notei que algumas células estavam sem valores atribuídos e consultei se os valores estavam listados como `NULL`, fiz umas correções na tabela de vendas e rodei alguns `JOIN`s pra testar se as tabelas estavam realmente conectadas.
 
 ![Consultas e limpezas no SQL](IMAGES/consultas.png)
 
