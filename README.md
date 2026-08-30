@@ -38,7 +38,7 @@ Dentro do Power BI, organizei a tabela Fato (`Sales`) ligada com as tabelas Dime
 ### 5. O Dashboard Final
 Por fim, criei as métricas usando DAX (`Faturamento Total`, `Total de Pedidos`, etc.) e montei o visual com botões de filtro por ano (2016 a 2021), gráficos de top produtos e faturamento por categoria.
 
-![Dashboard Final](IMAGES/powerBi.jpg)
+![Dashboard Final](IMAGES/powerBi.png)
 
 ---
 
